@@ -1,4 +1,5 @@
 # SolarFloodLights
+<meta name="google-site-verification" content="4isAHS3CqaYKemg_YfQ-e61j3Dd_RQH5kwLXnjsdmqs" />
 An Arduino-based prototype that turns your good old flood lights into a better one. It has motion sensing capabilities, 2 ways of charging( Solar and Power Supply), and brightness control.
 
 <p float="left">
